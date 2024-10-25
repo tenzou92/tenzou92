@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I also work as part-time for Graphic Design**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color:white;">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tenzou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tenzou" height="30" width="40" /></a>
 <a href="https://fb.com/ahmad tenzou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad tenzou" height="30" width="40" /></a>
