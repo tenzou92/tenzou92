@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **cxptain92@gmail.com**
+- 📫 How to reach me **tenzoucomp@gmail.com**
 
 - ⚡ Fun fact **I also work as part-time for Graphic Design**
 
