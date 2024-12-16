@@ -7,13 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/tenzou" target="blank"><img src="https://img.shields.io/twitter/follow/tenzou?logo=twitter&style=for-the-badge" alt="tenzou" /></a> </p>
 
+---
+
 - 🌱 I’m currently learning **React Native, Odoo**
+
+- 💡 &nbsp;I like to explore new technologies and develop clean UI/UX design.
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **tenzoucomp@gmail.com**
 
 - ⚡ Fun fact **I also work as part-time for Graphic Design**
+  
+---
 
 <h3 align="left" style="color:white;">Connect with me:</h3>
 <p align="left">
@@ -28,6 +34,8 @@
 <a href="https://github.com/tenzou92">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tenzou92&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tenzou92&layout=compact&langs_count=8&theme=vue-dark"/>
-  <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=tenzou92&layout=compact&langs_count=8&theme=vue-dark"/> 
 </a>
 </p>
+
+---
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2300BD9D&vCenter=true&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
