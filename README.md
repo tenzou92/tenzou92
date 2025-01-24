@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently learning **React Native, Odoo**
+- 🌱 I’m currently learning **React Native**
 
 - 💡 &nbsp;I like to explore new technologies and develop clean UI/UX design.
 
